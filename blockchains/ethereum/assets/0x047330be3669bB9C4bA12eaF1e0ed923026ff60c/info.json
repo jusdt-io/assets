@@ -1,0 +1,11 @@
+{
+  "name": "JUSDT",
+  "website": "https://www.jsonusdt.com",
+  "description": "JUSDT is an Ethereum-based decentralized stablecoin built for fast, transparent, and reliable value transfers.",
+  "explorer": "https://etherscan.io/token/0x047330be3669bB9C4bA12eaF1e0ed923026ff60c",
+  "type": "ERC20",
+  "symbol": "JUSDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "jusdt"
+}
